@@ -1,2 +1,2 @@
 # peterwdunphy.github.io
-Personal website thru GitHub 
+My very own personal website supported by GitHub.
