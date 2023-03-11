@@ -1,2 +1,2 @@
-# peterwdunphy.github.io
-My very own personal website supported by GitHub.
+# Peter Dunphy, now coming to you live from GitHub.
+Welcome to my GitHub page. While this page might seem tiny now, one day it'll be mighty. So watch this space....
